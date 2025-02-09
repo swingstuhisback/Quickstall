@@ -4,7 +4,7 @@ Make sure the following are installed:
 
 - [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
 
-winget should be automatically installed; if it fails, I don't really know...
+(p.s, winget should be automatically installed alongside your Windows install; if it fails, I don't really know...)
 
 ## Instructions
 
