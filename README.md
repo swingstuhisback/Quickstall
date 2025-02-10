@@ -14,7 +14,7 @@ Make sure the following are installed:
 
 2. **Change Programs**
 
-   Once the you've downloaded it, open it in a text editor, preferably [VS Code](https://code.visualstudio.com).
+   Once you've downloaded it, open it in a text editor, preferably [VS Code](https://code.visualstudio.com).
 
    To search for programs, run **Command Prompt** or **PowerShell** as **administrator** and type:
 
@@ -39,4 +39,4 @@ Make sure the following are installed:
 
 ## Credits
 
-- [Snipcola](https://github.com/snipcola), readme template
+- [Snipcola](https://github.com/snipcola), for the readme.md template
