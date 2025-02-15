@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is currently being phased out due to a newer version which is more stable and effective. See [quickstall-choco](https://github.com/swingstuhisback/quickstall-choco)
+
 ## Prerequisites
 
 Make sure the following are installed:
